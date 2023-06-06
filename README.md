@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <h1 align="center">Hola !👋 Soy Carlos Grajales</h1>
-  <h2 align="center">Bienvenidos a mi perfil de Github</h2>
   <h3 align="center">Sobre mí 🙋‍♂️</h3>
   <p align="center">
     Soy ingeniero de sistemas con 2 años de experiencia como Desarrollador Frontend y apasionado por la resolución de problemas.

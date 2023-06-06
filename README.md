@@ -2,12 +2,13 @@
   <h1 align="center">Hola !👋 Soy Carlos Grajales</h1>
   <h2 align="center">Bienvenidos a mi perfil de Github</h2>
   <h2 align="center">Sobre mí 🙋‍♂️</h2>
-  <h4 align="center">
+  <h5 align="center">
     Soy ingeniero de sistemas con experiencia en desarrollo frontend y apasionado por la resolución de problemas.
     💡 Me especializo en crear interfaces atractivas y funcionales utilizando HTML, CSS y JavaScript. Además, tengo
     conocimientos en el framework Angular y en la integración de datos entre el frontend y la base de datos. 💻
-  </h4>
+  </h5>
 </div>
+<br>
 
 ## Proyectos destacados 🚀
 - 🌐 [Proyecto 1](link_al_proyecto): Participé en el desarrollo de un aplicativo web que funciona como una red social para la contratación de profesionales. Contribuí en la maquetación de las interfaces y en la implementación de funciones clave utilizando Angular.

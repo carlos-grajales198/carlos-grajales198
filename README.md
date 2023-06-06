@@ -3,9 +3,8 @@
   <h2 align="center">Bienvenidos a mi perfil de Github</h2>
   <h3 align="center">Sobre mí 🙋‍♂️</h3>
   <p align="center">
-    Soy ingeniero de sistemas con experiencia en desarrollo frontend y apasionado por la resolución de problemas.
-    💡 Me especializo en crear interfaces atractivas y funcionales utilizando HTML, CSS y JavaScript. Además, tengo
-    conocimientos en el framework Angular y en la integración de datos entre el frontend y la base de datos. 💻
+    Soy ingeniero de sistemas con 2 años de experiencia como Desarrollador Frontend y apasionado por la resolución de problemas.
+    💡 Me especializo en crear interfaces atractivas y funcionales utilizando HTML, CSS y JavaScript. Además, tengo experiencia   trabajando con en el framework Angular y en la integración de datos entre el frontend y la base de datos. 💻
   </p>
 </div>
 <br>

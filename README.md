@@ -15,6 +15,7 @@
 ## Herramientas y metodologías 🛠️
 - 💻 HTML, CSS, JavaScript
 - 🅰️ Angular
+- 💻 SQL
 - 📊 Microsoft Planner: Gestión de tareas y actividades en proyectos
 - 💬 Microsoft Teams: Comunicación y colaboración en equipo
 - 📈 SCRUM: Metodología ágil utilizada en el desarrollo de proyectos

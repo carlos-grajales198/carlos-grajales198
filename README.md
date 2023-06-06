@@ -1,4 +1,4 @@
-# ¡Bienvenido/a a mi perfil de GitHub! Soy Carlos Grajales 👋
+# ¡Bienvenido/a a mi GitHub! Soy Carlos Grajales 👋
 
 ## Sobre mí 🙋‍♂️
 Soy un ingeniero de sistemas con experiencia en desarrollo frontend y apasionado por la resolución de problemas. 💡 Me especializo en crear interfaces atractivas y funcionales utilizando HTML, CSS y JavaScript. Además, tengo conocimientos en el framework Angular y en la integración de datos entre el frontend y la base de datos. 💻

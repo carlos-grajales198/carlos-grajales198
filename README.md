@@ -23,4 +23,4 @@
 - 🗂️ GitHub: Control de versiones
 
 ¡Estoy emocionado/a por seguir aprendiendo y contribuir a proyectos desafiantes! Si tienes alguna oportunidad interesante o deseas colaborar, ¡no dudes en contactarme! 📩
->>>>>>> 6242f1eb212c62d9c442dafb24f8d5b44c60252e
+

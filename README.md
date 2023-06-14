@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# carlos-grajales198.github.io
-Sitio web portfolio Carlos Grajales
-=======
+
 <div id="header" align="center">
   <h1 align="center">Hola !👋 Soy Carlos Grajales</h1>
   <h3 align="center">Sobre mí 🙋‍♂️</h3>

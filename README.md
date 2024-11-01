@@ -3,8 +3,12 @@
   <h1 align="center">Hola !👋 Soy Carlos Grajales</h1>
   <h3 align="center">Sobre mí 🙋‍♂️</h3>
   <p align="center">
-    Soy ingeniero de sistemas con 2 años de experiencia como Desarrollador Frontend y apasionado por la resolución de problemas.
-    💡 Me especializo en crear interfaces atractivas y funcionales utilizando HTML, CSS y JavaScript. Además, tengo experiencia   trabajando con en el framework Angular y en la integración de datos entre el frontend y la base de datos del backend. 💻
+    Ingeniero de sistemas con 4 años de experiencia en el desarrollo de plataformas web con ANGULAR, 
+manejo de UX/UI y consumo de servicios REST creados con .NET ; también tengo conocimientos en 
+manejo de bases de datos con SQL SERVER, me he destacado por mi contribución en el desarrollo de 
+aplicativos de software para diversos clientes en diferentes países como : JANNUS LLC en Estados 
+Unidos y DMS SOFTWARE en Colombia y Ecuador. Además poseo sólidas habilidades en resolución de 
+problemas y trabajo en equipo.  💻
   </p>
 </div>
 <br>

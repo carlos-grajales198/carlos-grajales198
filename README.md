@@ -16,7 +16,7 @@ problemas y trabajo en equipo.  💻
 ## Proyectos destacados 🚀
 - 🌐 [Proyecto 1](link_al_proyecto): Participé en el desarrollo de un aplicativo web que funciona como una red social para la contratación de profesionales. Contribuí en la maquetación de las interfaces y en la implementación de funciones clave utilizando Angular.
 - 🚌 [Proyecto 2](link_al_proyecto): Colaboré en el desarrollo de un sistema de reserva de pasajes de autobús como parte de mi proyecto de tesis de la universidad. Trabajé en equipo con otro compañero de clases, utilizando Angular y Firebase, e implementamos métodos CRUD en el frontend para consumir la API en el backend.
-- - 🚌 [Proyectos Actuales]: Actualmente estoy participando desde el equipo de frontend en el desarrollo de diversas aplicaciones para los clientes en varios paises de latinoamerica que tiene la compañia DMS SOFTWARE a la cual estoy vinculado desde hace 1 año y medio. Dichos clientes son principalmente del sector automotriz
+- 🚌 [Proyectos Actuales]: Actualmente estoy participando desde el equipo de frontend en el desarrollo de diversas aplicaciones para los clientes en varios paises de latinoamerica que tiene la compañia DMS SOFTWARE a la cual estoy vinculado desde hace 1 año y medio. Dichos clientes son principalmente del sector automotriz
 
 ## Herramientas y metodologías 🛠️
 - 💻 HTML, CSS, JavaScript

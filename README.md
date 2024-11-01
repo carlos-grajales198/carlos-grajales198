@@ -21,7 +21,7 @@ problemas y trabajo en equipo.  💻
 ## Herramientas y metodologías 🛠️
 - 💻 HTML, CSS, JavaScript
 - 🅰️ Angular
-- .NET
+- 💻 .NET
 - 💻 SQL
 - 📊 Microsoft Planner: Gestión de tareas y actividades en proyectos
 - 💬 Microsoft Teams: Comunicación y colaboración en equipo
